@@ -3,9 +3,9 @@
 Este repositorio contiene el desarrollo de un análisis de datos y visualización interactiva como parte del **Reto Hackathon**.
 
 ## Presentado por:
- Angie Vanessa Guazaquillo Ospina \n
- Julián David Espinosa \n
- Julio Alejandro Peñaloza Giraldo \n
+ Angie Vanessa Guazaquillo Ospina <\br>
+ Julián David Espinosa <\br>
+ Julio Alejandro Peñaloza Giraldo <\br>
 
 ## Archivos principales
 
